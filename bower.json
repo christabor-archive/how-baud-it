@@ -1,0 +1,10 @@
+{
+	"name" : "how-baud-it",
+	"version": "0.1.0",
+	"dependencies" : {
+		"jquery" : "latest"
+		},
+		"install" : {
+			"path" : "src/how_baud_it.jquery.js"
+		}
+	}
