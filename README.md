@@ -1,3 +1,4 @@
+[![MIT Badge](http://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/christabor/how-baud-it/master/LICENSE)
 how-baud-it
 ===========
 
